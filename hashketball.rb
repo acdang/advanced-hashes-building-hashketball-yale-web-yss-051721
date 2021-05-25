@@ -31,7 +31,7 @@ def game_hash
           number: 11,
           shoe: 17,
           points: 17,
-          rebounds: ,
+          rebounds: 19,
           assists: ,
           steals: ,
           blocks: ,
